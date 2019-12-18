@@ -1,0 +1,54 @@
+
+  main{
+    display:flex;
+    flex-wrap:wrap;
+    height:75vh;
+    width:75vh;
+  }
+  main>div{
+    width:40px;
+    height:55px;
+    border:1px solid black;
+    background-size:cover;
+    background-color: rgb(45, 140, 153);
+    background-position:50% 50%;
+  }
+  
+.empty {
+  width:70px;
+  height:75px;
+  border:1px solid black;
+  background-size:cover;
+  background-color: aqua;
+  background-position:50% 50%;
+
+}
+
+  .uBoat {
+    background-color: yellow;
+}
+
+.destroyer {
+    background-image: url("https://img.icons8.com/color/48/000000/battleship.png");
+}
+
+.carrier {
+    background-image: url("https://img.icons8.com/pastel-glyph/64/000000/water-transportation--v2.png");
+}
+
+.battleShip {
+    background-color: green;
+}
+
+.patrolBoat {
+    background-color: white;
+}
+
+.hit {
+    background-image: url();
+}
+
+.miss {
+  background-color: blue;
+  
+}
