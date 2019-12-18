@@ -1,4 +1,8 @@
 //prompt asking for the player's name. I want to make a button for this but its getting late and I am old and need my sleep.
+
+
+
+let name = "Shahrukh";
 let playerName = prompt("Please enter your name.")
 
 //array to hold our ships information
